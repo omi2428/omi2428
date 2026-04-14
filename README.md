@@ -1,5 +1,13 @@
 # 💫 About Me:
-AWS & DevOps with python <br>
+Believe In (CLCP) – Continuous Learning Continuous Practice
+
+Aspiring AWS Cloud & DevOps Engineer
+
+I am a motivated and enthusiastic beginner in AWS Cloud and DevOps, with a strong interest in building scalable and efficient systems. I have foundational knowledge of tools and technologies such as Linux, Git/GitHub, Docker, Jenkins, Kubernetes, Terraform, and Ansible.
+
+I am continuously learning and practicing to improve my skills in cloud computing, automation, and CI/CD pipelines. I enjoy solving problems, working in team environments, and adapting to new technologies.
+
+I am eager to start my career in Cloud and DevOps, contribute to real-world projects, and grow as a professional while delivering reliable and efficient solutions. <br>
 
 
 ## 🌐 Socials:
